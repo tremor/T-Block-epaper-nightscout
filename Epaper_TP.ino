@@ -23,7 +23,7 @@
 const int16_t arrow_pos_x = 10;
 const int16_t arrow_pos_y = 110;
 const int16_t value_pos_x = 80;
-const int16_t value_pos_y = 160;
+const int16_t value_pos_y = 150;
 const int utcOffset = 1;        // Central European Time
 
 extern const unsigned char logoIcon[280];
