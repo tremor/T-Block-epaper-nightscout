@@ -11,3 +11,5 @@ Usage:
   Partition Scheme: "Default (2* 6,5 MB app, 3,6 MB SPIFFS"
   PSRAM: "enabled"
   
+You can change the Font size by creating a own size under https://rop.nl/truetype2gfx/
+
